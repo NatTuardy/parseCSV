@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/parseCSV/static/css/main.59020106.chunk.css",
+    "main.js": "/parseCSV/static/js/main.7ce20cfd.chunk.js",
+    "main.js.map": "/parseCSV/static/js/main.7ce20cfd.chunk.js.map",
+    "runtime-main.js": "/parseCSV/static/js/runtime-main.39d74e28.js",
+    "runtime-main.js.map": "/parseCSV/static/js/runtime-main.39d74e28.js.map",
+    "static/js/2.1e9d28a5.chunk.js": "/parseCSV/static/js/2.1e9d28a5.chunk.js",
+    "static/js/2.1e9d28a5.chunk.js.map": "/parseCSV/static/js/2.1e9d28a5.chunk.js.map",
+    "index.html": "/parseCSV/index.html",
+    "static/css/main.59020106.chunk.css.map": "/parseCSV/static/css/main.59020106.chunk.css.map",
+    "static/js/2.1e9d28a5.chunk.js.LICENSE.txt": "/parseCSV/static/js/2.1e9d28a5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/parseCSV/static/media/roboto-v20-latin-regular.e464241b.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39d74e28.js",
+    "static/js/2.1e9d28a5.chunk.js",
+    "static/css/main.59020106.chunk.css",
+    "static/js/main.7ce20cfd.chunk.js"
+  ]
+}
