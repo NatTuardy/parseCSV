@@ -1,0 +1,28 @@
+.aside {
+  display: flex;
+  flex-direction: row;
+  width: 30vw;
+  margin-bottom: 24px;
+}
+
+.btn {
+  width: 50%;
+  margin-left: 0;
+  margin-right: 8px;
+  padding: 0 auto;
+  font-size: calc(1px + 2vmin);
+  border-radius: 3px;
+  outline: none;
+  cursor: pointer;
+}
+
+.fileName {
+  width: 50%;
+  height: 36px;
+  padding: 0 auto;
+  font-size: calc(1px + 2vmin);
+  border-radius: 3px;
+  border: 1px solid #ccc;
+  line-height: 36px;
+  padding-left: 13px;
+}

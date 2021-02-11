@@ -1,0 +1,21 @@
+table {
+  max-width: 85vw;
+  border-radius: 10px;
+}
+
+table,
+td,
+th {
+  font-size: calc(1px + 2vmin);
+  padding: 0.6em 0.8em;
+  border-collapse: collapse;
+  border: 1px solid #282c34;
+}
+
+.wrongData {
+  background-color: #eeb8b1;
+}
+
+.wrapper {
+  width: 96%;
+}

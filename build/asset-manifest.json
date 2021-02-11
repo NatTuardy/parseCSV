@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Radency/static/css/main.3a42abe0.chunk.css",
+    "main.js": "/Radency/static/js/main.c4b45361.chunk.js",
+    "main.js.map": "/Radency/static/js/main.c4b45361.chunk.js.map",
+    "runtime-main.js": "/Radency/static/js/runtime-main.62b2c22c.js",
+    "runtime-main.js.map": "/Radency/static/js/runtime-main.62b2c22c.js.map",
+    "static/js/2.fa63732c.chunk.js": "/Radency/static/js/2.fa63732c.chunk.js",
+    "static/js/2.fa63732c.chunk.js.map": "/Radency/static/js/2.fa63732c.chunk.js.map",
+    "index.html": "/Radency/index.html",
+    "static/css/main.3a42abe0.chunk.css.map": "/Radency/static/css/main.3a42abe0.chunk.css.map",
+    "static/js/2.fa63732c.chunk.js.LICENSE.txt": "/Radency/static/js/2.fa63732c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62b2c22c.js",
+    "static/js/2.fa63732c.chunk.js",
+    "static/css/main.3a42abe0.chunk.css",
+    "static/js/main.c4b45361.chunk.js"
+  ]
+}
